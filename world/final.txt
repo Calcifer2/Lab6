@@ -1,0 +1,11 @@
+	0
+ASIA (EX. NEAR EAST)         	28
+BALTICS                            	3
+C.W. OF IND. STATES 	12
+EASTERN EUROPE                     	12
+LATIN AMER. & CARIB    	45
+NEAR EAST                          	16
+NORTHERN AFRICA                    	6
+NORTHERN AMERICA                   	5
+OCEANIA                            	21
+SUB-SAHARAN AFRICA                 	51
